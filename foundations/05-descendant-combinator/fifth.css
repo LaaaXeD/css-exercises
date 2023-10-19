@@ -1,0 +1,10 @@
+/* p is nested inside div */
+
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Problem is solved */
